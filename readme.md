@@ -37,6 +37,13 @@ A Python-based chatbot that interacts with the DeepSeek API for intelligent resp
   ```
 
 ## Usage
+  ```bash
+  python app.py
+  ```
+```
+```
+
+## Important Notes
 - **API Costs**: This uses paid APIs from both `DeepSeek` and `Replicate`
 - **Voice Options**: Available voices include `af_bella`, `en_mei`, `jp_nana`, etc.
 - **Internet Connection**: Required for API access
