@@ -21,7 +21,7 @@ A Python-based chatbot that interacts with the DeepSeek API for intelligent resp
 
 1. **Clone the repository**:
   ```bash
-  git clone https://github.com/palanivenkatesh/deepseek-voice-chatbot.git
+  git clone https://github.com/palanivenkatesh/deepseek-assistant.git
   cd deepseek-voice-chatbot
   ```
 
