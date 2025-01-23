@@ -41,7 +41,6 @@ A Python-based chatbot that interacts with the DeepSeek API for intelligent resp
   python app.py
   ```
 ```
-```
 
 ## Important Notes
 - **API Costs**: This uses paid APIs from both `DeepSeek` and `Replicate`
